@@ -63,3 +63,6 @@ DerivedDataCache/*
 
 # Others
 *VC.db
+
+# Content
+Content/StarterContent/*
